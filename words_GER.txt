@@ -1,0 +1,31 @@
+{
+            "easy":  [
+        "ich", "du", "er / sie / es", "wir", "ihr", "sie / Sie", "ja", "nein", "danke", "bitte",
+        "hallo", "guten Morgen", "guten Abend", "tschüss", "auf Wiedersehen", "entschuldigung", "wie",
+        "wo", "wann", "warum", "haus", "familie", "mutter", "vater", "freund",
+        "wasser", "brot", "essen", "zeit", "heute", "morgen", "gestern", "tag",
+        "nacht", "jahr", "arbeit", "stadt", "schule", "buch", "tür", "telefon",
+        "geld", "auto", "zug", "arzt", "geschäft", "kleidung", "schön",
+        "gut", "groß"
+    ],
+            "medium": [
+        "flughafen", "ticket", "hotel", "bahnhof", "koffer", "reisepass",
+        "straße", "karte", "rechts", "links", "geradeaus", "restaurant", "frühstück",
+        "mittagessen", "abendessen", "rechnung", "küche", "obst", "gemüse", "fleisch", "fisch",
+        "apotheke", "krankenhaus", "bank", "büro", "brief", "briefmarke",
+        "geschenk", "party", "musik", "film", "sport", "spiel", "freizeit",
+        "reise", "meer", "berg", "sonne", "regen", "kalt", "heiß",
+        "glücklich", "traurig", "müde", "krank", "jung", "alt", "klein",
+        "früh", "spät"]
+            "hard": [
+        "meinung", "ratschlag", "problem", "lösung", "entscheidung", "ziel",
+        "erfolg", "erfahrung", "erinnerung", "traum", "zukunft", "vergangenheit",
+        "raum", "umwelt", "natur", "gesellschaft", "wirtschaft", "politik",
+        "kultur", "kunst", "wissenschaft", "nachricht", "artikel", "interview",
+        "nachricht", "computer", "bildschirm", "netzwerk", "passwort", "erklären",
+        "verstehen", "entscheiden", "wählen", "lösen", "verbessern", "fortsetzen",
+        "beginnen", "beenden", "scheinen", "zugeben", "wichtig", "nützlich",
+        "nutzlos", "schwierig", "leicht", "sicher", "wahrscheinlich", "plötzlich",
+        "ruhig", "wirklich"
+    ]
+        }

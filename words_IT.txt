@@ -1,0 +1,32 @@
+{
+            "easy": [
+        "io", "tu", "lui / lei", "noi", "voi", "loro", "sì", "no", "grazie", "prego",
+        "buongiorno", "buonasera", "ciao", "arrivederci", "per favore", "scusa", "come", 
+        "dove", "quando", "perché", "casa", "famiglia", "madre", "padre", "amico", 
+        "acqua", "pane", "cibo", "tempo", "oggi", "domani", "ieri", "giorno", 
+        "notte", "anno", "lavoro", "città", "scuola", "libro", "porta", "telefono", 
+        "soldi", "macchina", "treno", "medico", "negozio", "vestito", "bello", 
+        "buono", "grande"
+    ],
+            "medium": [
+        "aeroporto", "biglietto", "albergo", "stazione", "valigia", "passaporto", 
+        "strada", "mappa", "destra", "sinistra", "dritto", "ristorante", "colazione", 
+        "pranzo", "cena", "conto", "cucina", "frutta", "verdura", "carne", "pesce", 
+        "farmacia", "ospedale", "banco", "ufficio", "lettera", "francobollo", 
+        "regalo", "festa", "musica", "film", "sport", "partita", "tempo libero", 
+        "viaggio", "mare", "montagna", "sole", "pioggia", "freddo", "caldo", 
+        "felice", "triste", "stanco", "malato", "giovane", "vecchio", "piccolo", 
+        "presto", "tardi"
+    ],
+            "hard": [
+        "opinione", "consiglio", "problema", "soluzione", "decisione", "scopo", 
+        "successo", "esperienza", "ricordo", "sogno", "futuro", "passato", 
+        "spazio", "ambiente", "natura", "società", "economia", "politica", 
+        "cultura", "arte", "scienza", "notizia", "articolo", "intervista", 
+        "messaggio", "computer", "schermo", "rete", "password", "spiegare", 
+        "capire", "decidere", "scegliere", "risolvere", "migliorare", "continuare", 
+        "cominciare", "finire", "sembrare", "ammettere", "importante", "utile", 
+        "inutile", "difficile", "facile", "sicuro", "probabile", "improvviso", 
+        "tranquillo", "veramente"
+    ]
+        }

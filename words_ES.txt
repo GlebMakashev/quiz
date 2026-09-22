@@ -1,0 +1,32 @@
+{
+    "easy": [
+        "yo", "tú", "él / ella", "nosotros", "vosotros", "ellos", "sí", "no", "gracias", "de nada",
+        "hola", "buenos días", "buenas noches", "adiós", "hasta luego", "perdón", "cómo",
+        "dónde", "cuándo", "por qué", "casa", "familia", "madre", "padre", "amigo",
+        "agua", "pan", "comida", "tiempo", "hoy", "mañana", "ayer", "día",
+        "noche", "año", "trabajo", "ciudad", "escuela", "libro", "puerta", "teléfono",
+        "dinero", "coche", "tren", "médico", "tienda", "ropa", "bonito",
+        "bueno", "grande"
+    ],
+    "medium": [
+        "aeropuerto", "billete", "hotel", "estación", "maleta", "pasaporte",
+        "calle", "mapa", "derecha", "izquierda", "recto", "restaurante", "desayuno",
+        "almuerzo", "cena", "cuenta", "cocina", "fruta", "verdura", "carne", "pescado",
+        "farmacia", "hospital", "banco", "oficina", "carta", "sello",
+        "regalo", "fiesta", "música", "película", "deporte", "partido", "tiempo libre",
+        "viaje", "mar", "montaña", "sol", "lluvia", "frío", "calor",
+        "feliz", "triste", "cansado", "enfermo", "joven", "viejo", "pequeño",
+        "temprano", "tarde"
+    ],
+    "hard": [
+        "opinión", "consejo", "problema", "solución", "decisión", "objetivo",
+        "éxito", "experiencia", "recuerdo", "sueño", "futuro", "pasado",
+        "espacio", "ambiente", "naturaleza", "sociedad", "economía", "política",
+        "cultura", "arte", "ciencia", "noticia", "artículo", "entrevista",
+        "mensaje", "ordenador", "pantalla", "red", "contraseña", "explicar",
+        "entender", "decidir", "elegir", "resolver", "mejorar", "continuar",
+        "empezar", "terminar", "parecer", "admitir", "importante", "útil",
+        "inútil", "difícil", "fácil", "seguro", "probable", "repentino",
+        "tranquilo", "realmente"
+    ]
+}

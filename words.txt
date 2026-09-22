@@ -1,0 +1,24 @@
+words_by_level = {
+    "easy": [
+  "be", "have", "do", "go", "get", "make", "say", "see", "come", "take", 
+  "want", "like", "time", "day", "man", "woman", "child", "world", "life", "hand", 
+  "eye", "water", "food", "house", "car", "friend", "money", "school", "good", "bad", 
+  "big", "small", "new", "old", "happy", "cold", "hot", "easy", "hello", "goodbye", 
+  "yes", "no", "and", "work", "play", "love", "cat", "dog", "book", "city"
+],
+    "medium": [
+  "accept", "agree", "allow", "arrive", "believe", "borrow", "choose", "decide", "explain", "forget",
+  "happen", "improve", "invite", "manage", "notice", "prefer", "receive", "refuse", "remember", "travel",
+  "ability", "accident", "advice", "amount", "century", "company", "culture", "danger", "decision", "direction",
+  "experience", "future", "government", "health", "journey", "knowledge", "opinion", "reason", "society", "weather",
+  "careful", "clever", "different", "famous", "helpful", "important", "modern", "possible", "strange", "useful"
+],
+    "hard": [
+  "appear", "attack", "belong", "change", "create", "depend", "expect", "follow", "happen", "hope",
+  "learn", "matter", "offer", "receive", "return", "search", "share", "spend", "trust", "worry",
+  "action", "border", "chance", "course", "degree", "effort", "event", "flight", "ground", "island",
+  "market", "nature", "period", "result", "season", "signal", "system", "target", "travel", "voice",
+  "afraid", "boring", "bright", "common", "famous", "lonely", "polite", "simple", "useful", "wrong"
+]
+
+}
